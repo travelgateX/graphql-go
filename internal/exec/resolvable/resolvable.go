@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/graph-gophers/graphql-go/internal/common"
-	"github.com/graph-gophers/graphql-go/internal/exec/packer"
-	"github.com/graph-gophers/graphql-go/internal/schema"
+	"github.com/travelgateX/graphql-go/internal/common"
+	"github.com/travelgateX/graphql-go/internal/exec/packer"
+	"github.com/travelgateX/graphql-go/internal/schema"
 )
 
 type Resolvers struct {
